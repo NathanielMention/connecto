@@ -15,6 +15,9 @@ Omnichannel messaging platform for businesses
 
 ## Design
 
+![auth](frontend/src/images/auth.png)
+![msg](frontend/src/images/msg.png)
+
 ## Features
 
 A few things that you can do on connecto:
